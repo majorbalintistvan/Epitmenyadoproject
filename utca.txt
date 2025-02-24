@@ -1,4 +1,5 @@
 800 600 100
+Adoszam UtcaNev Hazszam Adosav AlapT
 38522 Aradi 1 C 180
 86379 Aradi 2 C 64
 79906 Aradi 3 C 123

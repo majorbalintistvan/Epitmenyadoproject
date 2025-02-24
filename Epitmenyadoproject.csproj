@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="utca.json" />
     <None Include="Építményadó.pdf" />
   </ItemGroup>
   <ItemGroup>

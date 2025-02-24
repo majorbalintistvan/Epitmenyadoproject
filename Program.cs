@@ -10,6 +10,8 @@ namespace Epitmenyadoproject
     {
         static void Main(string[] args)
         {
+            // A - 800, B - 600, C - 100
+            Console.ReadKey();
         }
     }
 }
