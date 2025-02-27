@@ -8,8 +8,9 @@ namespace Epitmenyadoproject
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+
             // A - 800, B - 600, C - 100
             Console.ReadKey();
         }
