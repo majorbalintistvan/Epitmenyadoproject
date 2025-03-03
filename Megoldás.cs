@@ -13,7 +13,7 @@ namespace Epitmenyadoproject
     {
         public List<Építményadó> Epitmenyadok { get; private set; }
 
-
+        public int TelkekSzáma => Epitmenyadok.Count;
 
         public Megoldás(string forrás)
         {
