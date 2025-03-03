@@ -13,25 +13,18 @@ namespace Epitmenyadoproject
     {
         public List<Építményadó> Epitmenyadok { get; private set; }
 
-        public string HolTalálható(int adószám)
-        {
-            string hely = "";
-            bool van = false;
-            foreach(var e in Epitmenyadok)
-            {
-                if (e.Adószám == adószám)
-                {
-                    hely += $"{e.UtcaNév} {e.Házszám}\t";
-                    van = true ;
-                }
-               
-            }
+        
 
-            if (!van)
+        public string GetAddressByAdoszam(int adoszam)
+        {
+            foreach (var e in Epitmenyadok)
             {
-                hely = "Nem szerepel az adatállományban.";
+                if (e.Adoszam == adoszam)
+                {
+                    return $"Utca: {e.UtcaNev}, Házszám: {e.Hazszam}";
+                }
             }
-            return hely;
+            return "Nem szerepel az adatállományban.";
         }
 
 

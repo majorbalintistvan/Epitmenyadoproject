@@ -15,8 +15,8 @@ namespace Epitmenyadoproject
             Console.Write(m);
 
             Console.Write($"3. feladat. Egy tulajdonos adószáma: ");
-            int adószám = int.Parse(Console.ReadLine());
-            Console.WriteLine(m.HolTalálható(adószám)); 
+            int adoszam = int.Parse(Console.ReadLine());
+            Console.Write(m.GetAddressByAdoszam(adoszam));
 
 
 
