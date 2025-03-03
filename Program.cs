@@ -14,6 +14,13 @@ namespace Epitmenyadoproject
             Megoldás m = new Megoldás(forrás);
             Console.Write(m);
 
+            Console.Write($"6. feladat. A több sávba sorolt utcák: ");
+            int adószám = int.Parse(Console.ReadLine());
+            Console.WriteLine(m.HolTalálható(adószám)); 
+
+
+
+
             // A - 800, B - 600, C - 100
             Console.ReadKey();
         }
