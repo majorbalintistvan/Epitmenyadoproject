@@ -14,7 +14,7 @@ namespace Epitmenyadoproject
             Megoldás m = new Megoldás(forrás);
             Console.Write(m);
 
-            Console.Write($"6. feladat. A több sávba sorolt utcák: ");
+            Console.Write($"3. feladat. Egy tulajdonos adószáma: ");
             int adószám = int.Parse(Console.ReadLine());
             Console.WriteLine(m.HolTalálható(adószám)); 
 

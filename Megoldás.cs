@@ -24,10 +24,12 @@ namespace Epitmenyadoproject
                     hely += $"{e.UtcaNév} {e.Házszám}\t";
                     van = true ;
                 }
-                if (!van)
-                {
-                    hely = "Nem szerepel az adatállományban.";
-                }
+               
+            }
+
+            if (!van)
+            {
+                hely = "Nem szerepel az adatállományban.";
             }
             return hely;
         }
