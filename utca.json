@@ -1,0 +1,3803 @@
+[
+ {
+   "Adoszam": 38522,
+   "UtcaNev": "Aradi",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 180
+ },
+ {
+   "Adoszam": 86379,
+   "UtcaNev": "Aradi",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 64
+ },
+ {
+   "Adoszam": 79906,
+   "UtcaNev": "Aradi",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 123
+ },
+ {
+   "Adoszam": 92210,
+   "UtcaNev": "Aradi",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 152
+ },
+ {
+   "Adoszam": 49812,
+   "UtcaNev": "Aradi",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 154
+ },
+ {
+   "Adoszam": 26753,
+   "UtcaNev": "Aradi",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 231
+ },
+ {
+   "Adoszam": 97969,
+   "UtcaNev": "Aradi",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 33366,
+   "UtcaNev": "Aradi",
+   "Hazszam": "8A",
+   "Adosav": "C",
+   "AlapT": 180
+ },
+ {
+   "Adoszam": 22510,
+   "UtcaNev": "Aradi",
+   "Hazszam": "8B",
+   "Adosav": "C",
+   "AlapT": 137
+ },
+ {
+   "Adoszam": 90561,
+   "UtcaNev": "Aradi",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 168
+ },
+ {
+   "Adoszam": 59966,
+   "UtcaNev": "Aradi",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 297
+ },
+ {
+   "Adoszam": 41456,
+   "UtcaNev": "Aradi",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 246
+ },
+ {
+   "Adoszam": 45156,
+   "UtcaNev": "Aradi",
+   "Hazszam": "13",
+   "Adosav": "C",
+   "AlapT": 282
+ },
+ {
+   "Adoszam": 76032,
+   "UtcaNev": "Aradi",
+   "Hazszam": "14",
+   "Adosav": "C",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 79028,
+   "UtcaNev": "Aradi",
+   "Hazszam": "15",
+   "Adosav": "C",
+   "AlapT": 213
+ },
+ {
+   "Adoszam": 21210,
+   "UtcaNev": "Aradi",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 277
+ },
+ {
+   "Adoszam": 76500,
+   "UtcaNev": "Aradi",
+   "Hazszam": "17",
+   "Adosav": "C",
+   "AlapT": 151
+ },
+ {
+   "Adoszam": 38722,
+   "UtcaNev": "Aradi",
+   "Hazszam": "18",
+   "Adosav": "C",
+   "AlapT": 147
+ },
+ {
+   "Adoszam": 29556,
+   "UtcaNev": "Aradi",
+   "Hazszam": "19",
+   "Adosav": "C",
+   "AlapT": 139
+ },
+ {
+   "Adoszam": 42220,
+   "UtcaNev": "Aradi",
+   "Hazszam": "20A",
+   "Adosav": "C",
+   "AlapT": 90
+ },
+ {
+   "Adoszam": 42220,
+   "UtcaNev": "Aradi",
+   "Hazszam": "20B",
+   "Adosav": "C",
+   "AlapT": 90
+ },
+ {
+   "Adoszam": 66550,
+   "UtcaNev": "Aradi",
+   "Hazszam": "22",
+   "Adosav": "C",
+   "AlapT": 147
+ },
+ {
+   "Adoszam": 90844,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 78384,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 81
+ },
+ {
+   "Adoszam": 29279,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "3",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 18167,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "4",
+   "Adosav": "A",
+   "AlapT": 176
+ },
+ {
+   "Adoszam": 72311,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "5",
+   "Adosav": "A",
+   "AlapT": 187
+ },
+ {
+   "Adoszam": 15974,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "6",
+   "Adosav": "A",
+   "AlapT": 193
+ },
+ {
+   "Adoszam": 82049,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "7A",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 76469,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "7B",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 29487,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 85
+ },
+ {
+   "Adoszam": 26395,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "9",
+   "Adosav": "A",
+   "AlapT": 153
+ },
+ {
+   "Adoszam": 39637,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "10",
+   "Adosav": "A",
+   "AlapT": 49
+ },
+ {
+   "Adoszam": 97723,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "11",
+   "Adosav": "A",
+   "AlapT": 188
+ },
+ {
+   "Adoszam": 84103,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "12",
+   "Adosav": "B",
+   "AlapT": 56
+ },
+ {
+   "Adoszam": 19516,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "14",
+   "Adosav": "B",
+   "AlapT": 48
+ },
+ {
+   "Adoszam": 65118,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "15A",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 65118,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "15B",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 74853,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "16",
+   "Adosav": "B",
+   "AlapT": 640
+ },
+ {
+   "Adoszam": 76092,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "17",
+   "Adosav": "A",
+   "AlapT": 175
+ },
+ {
+   "Adoszam": 86861,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "18",
+   "Adosav": "A",
+   "AlapT": 282
+ },
+ {
+   "Adoszam": 98489,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "19",
+   "Adosav": "A",
+   "AlapT": 105
+ },
+ {
+   "Adoszam": 15095,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "20",
+   "Adosav": "A",
+   "AlapT": 110
+ },
+ {
+   "Adoszam": 31231,
+   "UtcaNev": "Besztercei",
+   "Hazszam": "21",
+   "Adosav": "A",
+   "AlapT": 161
+ },
+ {
+   "Adoszam": 34233,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "1",
+   "Adosav": "B",
+   "AlapT": 217
+ },
+ {
+   "Adoszam": 39499,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "3",
+   "Adosav": "B",
+   "AlapT": 209
+ },
+ {
+   "Adoszam": 53972,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "5",
+   "Adosav": "B",
+   "AlapT": 240
+ },
+ {
+   "Adoszam": 50050,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "7",
+   "Adosav": "B",
+   "AlapT": 145
+ },
+ {
+   "Adoszam": 21929,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "9",
+   "Adosav": "B",
+   "AlapT": 168
+ },
+ {
+   "Adoszam": 87586,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "11",
+   "Adosav": "B",
+   "AlapT": 249
+ },
+ {
+   "Adoszam": 47026,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "13",
+   "Adosav": "B",
+   "AlapT": 105
+ },
+ {
+   "Adoszam": 58059,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "15",
+   "Adosav": "B",
+   "AlapT": 96
+ },
+ {
+   "Adoszam": 43181,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "17",
+   "Adosav": "B",
+   "AlapT": 196
+ },
+ {
+   "Adoszam": 17487,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "19",
+   "Adosav": "B",
+   "AlapT": 199
+ },
+ {
+   "Adoszam": 85448,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "21",
+   "Adosav": "B",
+   "AlapT": 118
+ },
+ {
+   "Adoszam": 65118,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "23",
+   "Adosav": "B",
+   "AlapT": 221
+ },
+ {
+   "Adoszam": 42848,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "25",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 50751,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "27",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 24510,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "29",
+   "Adosav": "B",
+   "AlapT": 72
+ },
+ {
+   "Adoszam": 58259,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "31",
+   "Adosav": "B",
+   "AlapT": 218
+ },
+ {
+   "Adoszam": 17219,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "33",
+   "Adosav": "B",
+   "AlapT": 229
+ },
+ {
+   "Adoszam": 23530,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "35",
+   "Adosav": "B",
+   "AlapT": 186
+ },
+ {
+   "Adoszam": 51751,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "37",
+   "Adosav": "B",
+   "AlapT": 116
+ },
+ {
+   "Adoszam": 30893,
+   "UtcaNev": "Egyenes",
+   "Hazszam": "39",
+   "Adosav": "B",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 95959,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "1A",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 82851,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "1B",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 40406,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "1C",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 54361,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 196
+ },
+ {
+   "Adoszam": 40830,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "4",
+   "Adosav": "A",
+   "AlapT": 77
+ },
+ {
+   "Adoszam": 48665,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "5A",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 35968,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "5B",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 33929,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "6",
+   "Adosav": "A",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 85799,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "7",
+   "Adosav": "A",
+   "AlapT": 218
+ },
+ {
+   "Adoszam": 12905,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 68
+ },
+ {
+   "Adoszam": 55384,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "9",
+   "Adosav": "A",
+   "AlapT": 158
+ },
+ {
+   "Adoszam": 35523,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "10",
+   "Adosav": "A",
+   "AlapT": 166
+ },
+ {
+   "Adoszam": 42603,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "11",
+   "Adosav": "A",
+   "AlapT": 360
+ },
+ {
+   "Adoszam": 77863,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "12",
+   "Adosav": "A",
+   "AlapT": 184
+ },
+ {
+   "Adoszam": 55311,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "13",
+   "Adosav": "A",
+   "AlapT": 70
+ },
+ {
+   "Adoszam": 62636,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "14",
+   "Adosav": "A",
+   "AlapT": 46
+ },
+ {
+   "Adoszam": 36372,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "16",
+   "Adosav": "A",
+   "AlapT": 158
+ },
+ {
+   "Adoszam": 42357,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "17",
+   "Adosav": "A",
+   "AlapT": 266
+ },
+ {
+   "Adoszam": 43023,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "18",
+   "Adosav": "A",
+   "AlapT": 96
+ },
+ {
+   "Adoszam": 95718,
+   "UtcaNev": "Eperjesi",
+   "Hazszam": "19",
+   "Adosav": "A",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 31996,
+   "UtcaNev": "Gerle",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 216
+ },
+ {
+   "Adoszam": 90017,
+   "UtcaNev": "Gerle",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 68
+ },
+ {
+   "Adoszam": 94360,
+   "UtcaNev": "Gerle",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 163
+ },
+ {
+   "Adoszam": 51977,
+   "UtcaNev": "Gerle",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 110
+ },
+ {
+   "Adoszam": 78743,
+   "UtcaNev": "Gerle",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 135
+ },
+ {
+   "Adoszam": 54785,
+   "UtcaNev": "Gerle",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 140
+ },
+ {
+   "Adoszam": 66477,
+   "UtcaNev": "Gerle",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 121
+ },
+ {
+   "Adoszam": 37891,
+   "UtcaNev": "Gerle",
+   "Hazszam": "8",
+   "Adosav": "C",
+   "AlapT": 183
+ },
+ {
+   "Adoszam": 99795,
+   "UtcaNev": "Gerle",
+   "Hazszam": "9",
+   "Adosav": "C",
+   "AlapT": 45
+ },
+ {
+   "Adoszam": 44038,
+   "UtcaNev": "Gerle",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 83397,
+   "UtcaNev": "Gerle",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 111
+ },
+ {
+   "Adoszam": 20000,
+   "UtcaNev": "Gerle",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 209
+ },
+ {
+   "Adoszam": 24151,
+   "UtcaNev": "Gerle",
+   "Hazszam": "13",
+   "Adosav": "C",
+   "AlapT": 161
+ },
+ {
+   "Adoszam": 64784,
+   "UtcaNev": "Gerle",
+   "Hazszam": "14",
+   "Adosav": "C",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 55875,
+   "UtcaNev": "Gerle",
+   "Hazszam": "15",
+   "Adosav": "C",
+   "AlapT": 290
+ },
+ {
+   "Adoszam": 90151,
+   "UtcaNev": "Gerle",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 285
+ },
+ {
+   "Adoszam": 61596,
+   "UtcaNev": "Gerle",
+   "Hazszam": "17",
+   "Adosav": "C",
+   "AlapT": 266
+ },
+ {
+   "Adoszam": 18134,
+   "UtcaNev": "Gerle",
+   "Hazszam": "18",
+   "Adosav": "C",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 79263,
+   "UtcaNev": "Gerle",
+   "Hazszam": "19",
+   "Adosav": "C",
+   "AlapT": 155
+ },
+ {
+   "Adoszam": 18949,
+   "UtcaNev": "Gerle",
+   "Hazszam": "20",
+   "Adosav": "C",
+   "AlapT": 205
+ },
+ {
+   "Adoszam": 59222,
+   "UtcaNev": "Gerle",
+   "Hazszam": "21",
+   "Adosav": "C",
+   "AlapT": 249
+ },
+ {
+   "Adoszam": 10988,
+   "UtcaNev": "Gerle",
+   "Hazszam": "22",
+   "Adosav": "C",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 41894,
+   "UtcaNev": "Gerle",
+   "Hazszam": "23",
+   "Adosav": "C",
+   "AlapT": 112
+ },
+ {
+   "Adoszam": 81381,
+   "UtcaNev": "Gerle",
+   "Hazszam": "24",
+   "Adosav": "C",
+   "AlapT": 179
+ },
+ {
+   "Adoszam": 32014,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 103
+ },
+ {
+   "Adoszam": 93340,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "2",
+   "Adosav": "B",
+   "AlapT": 224
+ },
+ {
+   "Adoszam": 18529,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "3",
+   "Adosav": "A",
+   "AlapT": 271
+ },
+ {
+   "Adoszam": 58151,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "4",
+   "Adosav": "B",
+   "AlapT": 251
+ },
+ {
+   "Adoszam": 72172,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "5",
+   "Adosav": "A",
+   "AlapT": 211
+ },
+ {
+   "Adoszam": 91330,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "6",
+   "Adosav": "B",
+   "AlapT": 42
+ },
+ {
+   "Adoszam": 66772,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "7",
+   "Adosav": "A",
+   "AlapT": 159
+ },
+ {
+   "Adoszam": 60822,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "8A",
+   "Adosav": "B",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 60822,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "8B",
+   "Adosav": "B",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 65151,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "9",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 10507,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "10",
+   "Adosav": "B",
+   "AlapT": 210
+ },
+ {
+   "Adoszam": 60822,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "11A",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 60822,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "11B",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 76050,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "12",
+   "Adosav": "B",
+   "AlapT": 132
+ },
+ {
+   "Adoszam": 54400,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "14",
+   "Adosav": "B",
+   "AlapT": 159
+ },
+ {
+   "Adoszam": 91608,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "15A",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 76707,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "15B",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 21781,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "16",
+   "Adosav": "B",
+   "AlapT": 267
+ },
+ {
+   "Adoszam": 66750,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "17A",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 57189,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "17B",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 69117,
+   "UtcaNev": "Gyurgyalag",
+   "Hazszam": "18",
+   "Adosav": "B",
+   "AlapT": 158
+ },
+ {
+   "Adoszam": 59646,
+   "UtcaNev": "Harmat",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 260
+ },
+ {
+   "Adoszam": 12928,
+   "UtcaNev": "Harmat",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 260
+ },
+ {
+   "Adoszam": 66676,
+   "UtcaNev": "Harmat",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 214
+ },
+ {
+   "Adoszam": 29682,
+   "UtcaNev": "Harmat",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 131
+ },
+ {
+   "Adoszam": 20743,
+   "UtcaNev": "Harmat",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 44
+ },
+ {
+   "Adoszam": 20137,
+   "UtcaNev": "Harmat",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 157
+ },
+ {
+   "Adoszam": 68361,
+   "UtcaNev": "Harmat",
+   "Hazszam": "8",
+   "Adosav": "C",
+   "AlapT": 219
+ },
+ {
+   "Adoszam": 40461,
+   "UtcaNev": "Harmat",
+   "Hazszam": "9",
+   "Adosav": "C",
+   "AlapT": 189
+ },
+ {
+   "Adoszam": 58029,
+   "UtcaNev": "Harmat",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 65
+ },
+ {
+   "Adoszam": 93456,
+   "UtcaNev": "Harmat",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 137
+ },
+ {
+   "Adoszam": 40585,
+   "UtcaNev": "Harmat",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 178
+ },
+ {
+   "Adoszam": 81223,
+   "UtcaNev": "Harmat",
+   "Hazszam": "14A",
+   "Adosav": "C",
+   "AlapT": 112
+ },
+ {
+   "Adoszam": 98137,
+   "UtcaNev": "Harmat",
+   "Hazszam": "14B",
+   "Adosav": "C",
+   "AlapT": 112
+ },
+ {
+   "Adoszam": 34335,
+   "UtcaNev": "Harmat",
+   "Hazszam": "15",
+   "Adosav": "C",
+   "AlapT": 200
+ },
+ {
+   "Adoszam": 51673,
+   "UtcaNev": "Harmat",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 189
+ },
+ {
+   "Adoszam": 53590,
+   "UtcaNev": "Harmat",
+   "Hazszam": "17",
+   "Adosav": "C",
+   "AlapT": 262
+ },
+ {
+   "Adoszam": 65864,
+   "UtcaNev": "Harmat",
+   "Hazszam": "18",
+   "Adosav": "C",
+   "AlapT": 249
+ },
+ {
+   "Adoszam": 96867,
+   "UtcaNev": "Harmat",
+   "Hazszam": "19",
+   "Adosav": "C",
+   "AlapT": 161
+ },
+ {
+   "Adoszam": 84496,
+   "UtcaNev": "Harmat",
+   "Hazszam": "20",
+   "Adosav": "C",
+   "AlapT": 54
+ },
+ {
+   "Adoszam": 55715,
+   "UtcaNev": "Harmat",
+   "Hazszam": "21",
+   "Adosav": "C",
+   "AlapT": 209
+ },
+ {
+   "Adoszam": 68396,
+   "UtcaNev": "Harmat",
+   "Hazszam": "22",
+   "Adosav": "C",
+   "AlapT": 98
+ },
+ {
+   "Adoszam": 60822,
+   "UtcaNev": "Harmat",
+   "Hazszam": "23",
+   "Adosav": "C",
+   "AlapT": 251
+ },
+ {
+   "Adoszam": 84317,
+   "UtcaNev": "Harmat",
+   "Hazszam": "24",
+   "Adosav": "C",
+   "AlapT": 148
+ },
+ {
+   "Adoszam": 56255,
+   "UtcaNev": "Harmat",
+   "Hazszam": "25",
+   "Adosav": "C",
+   "AlapT": 111
+ },
+ {
+   "Adoszam": 77577,
+   "UtcaNev": "Harmat",
+   "Hazszam": "26",
+   "Adosav": "C",
+   "AlapT": 166
+ },
+ {
+   "Adoszam": 73907,
+   "UtcaNev": "Harmat",
+   "Hazszam": "27",
+   "Adosav": "C",
+   "AlapT": 145
+ },
+ {
+   "Adoszam": 10388,
+   "UtcaNev": "Harmat",
+   "Hazszam": "28",
+   "Adosav": "C",
+   "AlapT": 220
+ },
+ {
+   "Adoszam": 46422,
+   "UtcaNev": "Harmat",
+   "Hazszam": "29",
+   "Adosav": "C",
+   "AlapT": 222
+ },
+ {
+   "Adoszam": 44777,
+   "UtcaNev": "Harmat",
+   "Hazszam": "30",
+   "Adosav": "C",
+   "AlapT": 155
+ },
+ {
+   "Adoszam": 28686,
+   "UtcaNev": "Harmat",
+   "Hazszam": "32",
+   "Adosav": "C",
+   "AlapT": 176
+ },
+ {
+   "Adoszam": 93601,
+   "UtcaNev": "Icce",
+   "Hazszam": "1",
+   "Adosav": "B",
+   "AlapT": 251
+ },
+ {
+   "Adoszam": 73760,
+   "UtcaNev": "Icce",
+   "Hazszam": "2",
+   "Adosav": "B",
+   "AlapT": 218
+ },
+ {
+   "Adoszam": 38317,
+   "UtcaNev": "Icce",
+   "Hazszam": "3",
+   "Adosav": "B",
+   "AlapT": 130
+ },
+ {
+   "Adoszam": 48143,
+   "UtcaNev": "Icce",
+   "Hazszam": "4",
+   "Adosav": "B",
+   "AlapT": 162
+ },
+ {
+   "Adoszam": 46063,
+   "UtcaNev": "Icce",
+   "Hazszam": "5",
+   "Adosav": "B",
+   "AlapT": 222
+ },
+ {
+   "Adoszam": 90193,
+   "UtcaNev": "Icce",
+   "Hazszam": "6",
+   "Adosav": "B",
+   "AlapT": 257
+ },
+ {
+   "Adoszam": 66343,
+   "UtcaNev": "Icce",
+   "Hazszam": "7",
+   "Adosav": "B",
+   "AlapT": 235
+ },
+ {
+   "Adoszam": 34846,
+   "UtcaNev": "Icce",
+   "Hazszam": "8",
+   "Adosav": "B",
+   "AlapT": 153
+ },
+ {
+   "Adoszam": 99986,
+   "UtcaNev": "Icce",
+   "Hazszam": "9",
+   "Adosav": "B",
+   "AlapT": 253
+ },
+ {
+   "Adoszam": 80427,
+   "UtcaNev": "Icce",
+   "Hazszam": "10",
+   "Adosav": "B",
+   "AlapT": 146
+ },
+ {
+   "Adoszam": 11105,
+   "UtcaNev": "Icce",
+   "Hazszam": "11",
+   "Adosav": "B",
+   "AlapT": 89
+ },
+ {
+   "Adoszam": 80744,
+   "UtcaNev": "Icce",
+   "Hazszam": "12",
+   "Adosav": "B",
+   "AlapT": 79
+ },
+ {
+   "Adoszam": 69089,
+   "UtcaNev": "Icce",
+   "Hazszam": "14",
+   "Adosav": "B",
+   "AlapT": 219
+ },
+ {
+   "Adoszam": 44774,
+   "UtcaNev": "Icce",
+   "Hazszam": "16",
+   "Adosav": "B",
+   "AlapT": 163
+ },
+ {
+   "Adoszam": 51755,
+   "UtcaNev": "Icce",
+   "Hazszam": "17",
+   "Adosav": "B",
+   "AlapT": 248
+ },
+ {
+   "Adoszam": 41078,
+   "UtcaNev": "Icce",
+   "Hazszam": "18A",
+   "Adosav": "B",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 33003,
+   "UtcaNev": "Icce",
+   "Hazszam": "18B",
+   "Adosav": "B",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 16830,
+   "UtcaNev": "Icce",
+   "Hazszam": "18C",
+   "Adosav": "B",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 65422,
+   "UtcaNev": "Icce",
+   "Hazszam": "19",
+   "Adosav": "B",
+   "AlapT": 242
+ },
+ {
+   "Adoszam": 90356,
+   "UtcaNev": "Icce",
+   "Hazszam": "20",
+   "Adosav": "A",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 83904,
+   "UtcaNev": "Icce",
+   "Hazszam": "21",
+   "Adosav": "A",
+   "AlapT": 245
+ },
+ {
+   "Adoszam": 24980,
+   "UtcaNev": "Icce",
+   "Hazszam": "22",
+   "Adosav": "A",
+   "AlapT": 272
+ },
+ {
+   "Adoszam": 73850,
+   "UtcaNev": "Icce",
+   "Hazszam": "23",
+   "Adosav": "A",
+   "AlapT": 255
+ },
+ {
+   "Adoszam": 74143,
+   "UtcaNev": "Icce",
+   "Hazszam": "24",
+   "Adosav": "A",
+   "AlapT": 125
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "1A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "1B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 73011,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "2A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 79963,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "2B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "3A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "3B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 46529,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "4A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 49650,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "4B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "5A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "5B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 62874,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "5C",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 56569,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "6A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 31918,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "6B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "7A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 59801,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "7B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 49774,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 44
+ },
+ {
+   "Adoszam": 62766,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "9A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 57251,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "9B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 50005,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "10A",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 11674,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "10B",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 84449,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "11",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 29437,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "12",
+   "Adosav": "A",
+   "AlapT": 214
+ },
+ {
+   "Adoszam": 24131,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "14",
+   "Adosav": "A",
+   "AlapT": 299
+ },
+ {
+   "Adoszam": 86885,
+   "UtcaNev": "Keszeg",
+   "Hazszam": "16",
+   "Adosav": "A",
+   "AlapT": 227
+ },
+ {
+   "Adoszam": 79197,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 274
+ },
+ {
+   "Adoszam": 87182,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 131
+ },
+ {
+   "Adoszam": 43476,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 204
+ },
+ {
+   "Adoszam": 67657,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 60981,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 50266,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 279
+ },
+ {
+   "Adoszam": 60989,
+   "UtcaNev": "Kolozsi",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 251
+ },
+ {
+   "Adoszam": 10934,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 144
+ },
+ {
+   "Adoszam": 73457,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 191
+ },
+ {
+   "Adoszam": 97701,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 210
+ },
+ {
+   "Adoszam": 22213,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 190
+ },
+ {
+   "Adoszam": 57449,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 158
+ },
+ {
+   "Adoszam": 49395,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 284
+ },
+ {
+   "Adoszam": 79359,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 178
+ },
+ {
+   "Adoszam": 68371,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "8",
+   "Adosav": "C",
+   "AlapT": 242
+ },
+ {
+   "Adoszam": 70573,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "9",
+   "Adosav": "C",
+   "AlapT": 95
+ },
+ {
+   "Adoszam": 15284,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 104
+ },
+ {
+   "Adoszam": 53875,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 232
+ },
+ {
+   "Adoszam": 96179,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 119
+ },
+ {
+   "Adoszam": 97519,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "13",
+   "Adosav": "C",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 13656,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "14",
+   "Adosav": "C",
+   "AlapT": 242
+ },
+ {
+   "Adoszam": 29904,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "15",
+   "Adosav": "C",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 34197,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 273
+ },
+ {
+   "Adoszam": 29963,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "18",
+   "Adosav": "C",
+   "AlapT": 156
+ },
+ {
+   "Adoszam": 95158,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "19",
+   "Adosav": "C",
+   "AlapT": 175
+ },
+ {
+   "Adoszam": 11401,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "20",
+   "Adosav": "C",
+   "AlapT": 168
+ },
+ {
+   "Adoszam": 71181,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "21",
+   "Adosav": "C",
+   "AlapT": 264
+ },
+ {
+   "Adoszam": 39022,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "22",
+   "Adosav": "C",
+   "AlapT": 133
+ },
+ {
+   "Adoszam": 56516,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "23",
+   "Adosav": "C",
+   "AlapT": 165
+ },
+ {
+   "Adoszam": 17355,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "24",
+   "Adosav": "C",
+   "AlapT": 178
+ },
+ {
+   "Adoszam": 82776,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "25A",
+   "Adosav": "C",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 34093,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "25B",
+   "Adosav": "C",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 10962,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "25C",
+   "Adosav": "C",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 96094,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "26",
+   "Adosav": "C",
+   "AlapT": 181
+ },
+ {
+   "Adoszam": 48154,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "27",
+   "Adosav": "C",
+   "AlapT": 299
+ },
+ {
+   "Adoszam": 81752,
+   "UtcaNev": "Kossuth",
+   "Hazszam": "29",
+   "Adosav": "C",
+   "AlapT": 79
+ },
+ {
+   "Adoszam": 63774,
+   "UtcaNev": "Kurta",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 255
+ },
+ {
+   "Adoszam": 96552,
+   "UtcaNev": "Kurta",
+   "Hazszam": "2",
+   "Adosav": "B",
+   "AlapT": 48
+ },
+ {
+   "Adoszam": 80018,
+   "UtcaNev": "Kurta",
+   "Hazszam": "3",
+   "Adosav": "A",
+   "AlapT": 184
+ },
+ {
+   "Adoszam": 12995,
+   "UtcaNev": "Malom",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 282
+ },
+ {
+   "Adoszam": 53817,
+   "UtcaNev": "Malom",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 48
+ },
+ {
+   "Adoszam": 18836,
+   "UtcaNev": "Malom",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 66
+ },
+ {
+   "Adoszam": 86387,
+   "UtcaNev": "Malom",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 456
+ },
+ {
+   "Adoszam": 38358,
+   "UtcaNev": "Malom",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 227
+ },
+ {
+   "Adoszam": 40085,
+   "UtcaNev": "Malom",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 63
+ },
+ {
+   "Adoszam": 19310,
+   "UtcaNev": "Malom",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 259
+ },
+ {
+   "Adoszam": 80884,
+   "UtcaNev": "Malom",
+   "Hazszam": "8",
+   "Adosav": "C",
+   "AlapT": 135
+ },
+ {
+   "Adoszam": 82501,
+   "UtcaNev": "Malom",
+   "Hazszam": "9",
+   "Adosav": "C",
+   "AlapT": 74
+ },
+ {
+   "Adoszam": 49645,
+   "UtcaNev": "Malom",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 86
+ },
+ {
+   "Adoszam": 86017,
+   "UtcaNev": "Malom",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 192
+ },
+ {
+   "Adoszam": 69059,
+   "UtcaNev": "Malom",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 271
+ },
+ {
+   "Adoszam": 67071,
+   "UtcaNev": "Malom",
+   "Hazszam": "13",
+   "Adosav": "C",
+   "AlapT": 82
+ },
+ {
+   "Adoszam": 72278,
+   "UtcaNev": "Malom",
+   "Hazszam": "14",
+   "Adosav": "C",
+   "AlapT": 202
+ },
+ {
+   "Adoszam": 24431,
+   "UtcaNev": "Malom",
+   "Hazszam": "15",
+   "Adosav": "C",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 88380,
+   "UtcaNev": "Malom",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 192
+ },
+ {
+   "Adoszam": 68881,
+   "UtcaNev": "Malom",
+   "Hazszam": "17",
+   "Adosav": "C",
+   "AlapT": 233
+ },
+ {
+   "Adoszam": 85165,
+   "UtcaNev": "Malom",
+   "Hazszam": "18",
+   "Adosav": "C",
+   "AlapT": 240
+ },
+ {
+   "Adoszam": 90309,
+   "UtcaNev": "Malom",
+   "Hazszam": "19",
+   "Adosav": "C",
+   "AlapT": 200
+ },
+ {
+   "Adoszam": 82727,
+   "UtcaNev": "Malom",
+   "Hazszam": "20",
+   "Adosav": "C",
+   "AlapT": 288
+ },
+ {
+   "Adoszam": 75738,
+   "UtcaNev": "Malom",
+   "Hazszam": "21",
+   "Adosav": "C",
+   "AlapT": 142
+ },
+ {
+   "Adoszam": 61685,
+   "UtcaNev": "Malom",
+   "Hazszam": "22",
+   "Adosav": "C",
+   "AlapT": 210
+ },
+ {
+   "Adoszam": 81116,
+   "UtcaNev": "Malom",
+   "Hazszam": "23",
+   "Adosav": "C",
+   "AlapT": 127
+ },
+ {
+   "Adoszam": 21119,
+   "UtcaNev": "Malom",
+   "Hazszam": "24",
+   "Adosav": "C",
+   "AlapT": 234
+ },
+ {
+   "Adoszam": 41386,
+   "UtcaNev": "Malom",
+   "Hazszam": "25",
+   "Adosav": "C",
+   "AlapT": 41
+ },
+ {
+   "Adoszam": 44627,
+   "UtcaNev": "Malom",
+   "Hazszam": "26",
+   "Adosav": "C",
+   "AlapT": 151
+ },
+ {
+   "Adoszam": 53715,
+   "UtcaNev": "Malom",
+   "Hazszam": "27",
+   "Adosav": "C",
+   "AlapT": 42
+ },
+ {
+   "Adoszam": 44878,
+   "UtcaNev": "Malom",
+   "Hazszam": "28",
+   "Adosav": "C",
+   "AlapT": 217
+ },
+ {
+   "Adoszam": 63220,
+   "UtcaNev": "Malom",
+   "Hazszam": "29",
+   "Adosav": "C",
+   "AlapT": 172
+ },
+ {
+   "Adoszam": 44931,
+   "UtcaNev": "Malom",
+   "Hazszam": "30",
+   "Adosav": "C",
+   "AlapT": 217
+ },
+ {
+   "Adoszam": 45731,
+   "UtcaNev": "Malom",
+   "Hazszam": "31",
+   "Adosav": "C",
+   "AlapT": 259
+ },
+ {
+   "Adoszam": 47376,
+   "UtcaNev": "Malom",
+   "Hazszam": "32",
+   "Adosav": "C",
+   "AlapT": 56
+ },
+ {
+   "Adoszam": 67060,
+   "UtcaNev": "Malom",
+   "Hazszam": "33",
+   "Adosav": "C",
+   "AlapT": 86
+ },
+ {
+   "Adoszam": 97446,
+   "UtcaNev": "Malom",
+   "Hazszam": "34",
+   "Adosav": "C",
+   "AlapT": 97
+ },
+ {
+   "Adoszam": 55328,
+   "UtcaNev": "Malom",
+   "Hazszam": "35",
+   "Adosav": "C",
+   "AlapT": 84
+ },
+ {
+   "Adoszam": 23717,
+   "UtcaNev": "Malom",
+   "Hazszam": "36",
+   "Adosav": "C",
+   "AlapT": 106
+ },
+ {
+   "Adoszam": 52112,
+   "UtcaNev": "Malom",
+   "Hazszam": "37",
+   "Adosav": "C",
+   "AlapT": 274
+ },
+ {
+   "Adoszam": 96321,
+   "UtcaNev": "Malom",
+   "Hazszam": "38",
+   "Adosav": "C",
+   "AlapT": 252
+ },
+ {
+   "Adoszam": 71812,
+   "UtcaNev": "Malom",
+   "Hazszam": "39",
+   "Adosav": "C",
+   "AlapT": 227
+ },
+ {
+   "Adoszam": 45394,
+   "UtcaNev": "Malom",
+   "Hazszam": "40",
+   "Adosav": "C",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 93891,
+   "UtcaNev": "Malom",
+   "Hazszam": "41",
+   "Adosav": "C",
+   "AlapT": 93
+ },
+ {
+   "Adoszam": 60444,
+   "UtcaNev": "Malom",
+   "Hazszam": "42",
+   "Adosav": "C",
+   "AlapT": 53
+ },
+ {
+   "Adoszam": 29714,
+   "UtcaNev": "Malom",
+   "Hazszam": "43",
+   "Adosav": "C",
+   "AlapT": 66
+ },
+ {
+   "Adoszam": 18736,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "1",
+   "Adosav": "B",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 47897,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "2",
+   "Adosav": "B",
+   "AlapT": 133
+ },
+ {
+   "Adoszam": 26878,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "3A",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 54530,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "3B",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 91293,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "4",
+   "Adosav": "B",
+   "AlapT": 294
+ },
+ {
+   "Adoszam": 54530,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "5A",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 54530,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "5B",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 39267,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "6",
+   "Adosav": "B",
+   "AlapT": 146
+ },
+ {
+   "Adoszam": 60544,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "7A",
+   "Adosav": "B",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 94228,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "7B",
+   "Adosav": "B",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 18184,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "8",
+   "Adosav": "B",
+   "AlapT": 177
+ },
+ {
+   "Adoszam": 61923,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "9",
+   "Adosav": "B",
+   "AlapT": 161
+ },
+ {
+   "Adoszam": 31058,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "11",
+   "Adosav": "B",
+   "AlapT": 47
+ },
+ {
+   "Adoszam": 47057,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "12A",
+   "Adosav": "B",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 93671,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "12B",
+   "Adosav": "B",
+   "AlapT": 160
+ },
+ {
+   "Adoszam": 11149,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "13",
+   "Adosav": "B",
+   "AlapT": 189
+ },
+ {
+   "Adoszam": 66775,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "14",
+   "Adosav": "B",
+   "AlapT": 136
+ },
+ {
+   "Adoszam": 26690,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "15",
+   "Adosav": "B",
+   "AlapT": 75
+ },
+ {
+   "Adoszam": 25677,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "16",
+   "Adosav": "B",
+   "AlapT": 173
+ },
+ {
+   "Adoszam": 37411,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "17",
+   "Adosav": "B",
+   "AlapT": 77
+ },
+ {
+   "Adoszam": 18842,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "18",
+   "Adosav": "B",
+   "AlapT": 86
+ },
+ {
+   "Adoszam": 59091,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "19",
+   "Adosav": "B",
+   "AlapT": 73
+ },
+ {
+   "Adoszam": 29892,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "21",
+   "Adosav": "B",
+   "AlapT": 79
+ },
+ {
+   "Adoszam": 36122,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "23",
+   "Adosav": "B",
+   "AlapT": 269
+ },
+ {
+   "Adoszam": 66069,
+   "UtcaNev": "Miskolci",
+   "Hazszam": "25",
+   "Adosav": "B",
+   "AlapT": 163
+ },
+ {
+   "Adoszam": 11808,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 245
+ },
+ {
+   "Adoszam": 18903,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 242
+ },
+ {
+   "Adoszam": 63761,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "4",
+   "Adosav": "A",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 82629,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "6",
+   "Adosav": "A",
+   "AlapT": 181
+ },
+ {
+   "Adoszam": 35330,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 158
+ },
+ {
+   "Adoszam": 37480,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "10",
+   "Adosav": "A",
+   "AlapT": 630
+ },
+ {
+   "Adoszam": 92673,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "12",
+   "Adosav": "A",
+   "AlapT": 202
+ },
+ {
+   "Adoszam": 25360,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "14",
+   "Adosav": "A",
+   "AlapT": 118
+ },
+ {
+   "Adoszam": 52953,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "16",
+   "Adosav": "A",
+   "AlapT": 66
+ },
+ {
+   "Adoszam": 77877,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "18",
+   "Adosav": "A",
+   "AlapT": 48
+ },
+ {
+   "Adoszam": 67446,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "20",
+   "Adosav": "A",
+   "AlapT": 82
+ },
+ {
+   "Adoszam": 73799,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "22",
+   "Adosav": "A",
+   "AlapT": 265
+ },
+ {
+   "Adoszam": 61002,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "24",
+   "Adosav": "A",
+   "AlapT": 800
+ },
+ {
+   "Adoszam": 63943,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "26",
+   "Adosav": "A",
+   "AlapT": 166
+ },
+ {
+   "Adoszam": 91970,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "28",
+   "Adosav": "A",
+   "AlapT": 54
+ },
+ {
+   "Adoszam": 50317,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "30",
+   "Adosav": "A",
+   "AlapT": 154
+ },
+ {
+   "Adoszam": 33238,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "32",
+   "Adosav": "A",
+   "AlapT": 112
+ },
+ {
+   "Adoszam": 97353,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "34",
+   "Adosav": "A",
+   "AlapT": 236
+ },
+ {
+   "Adoszam": 62464,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "36",
+   "Adosav": "A",
+   "AlapT": 181
+ },
+ {
+   "Adoszam": 34964,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "38",
+   "Adosav": "A",
+   "AlapT": 46
+ },
+ {
+   "Adoszam": 65718,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "40",
+   "Adosav": "A",
+   "AlapT": 54
+ },
+ {
+   "Adoszam": 53663,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "42",
+   "Adosav": "A",
+   "AlapT": 61
+ },
+ {
+   "Adoszam": 48979,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "44",
+   "Adosav": "A",
+   "AlapT": 270
+ },
+ {
+   "Adoszam": 49755,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "46",
+   "Adosav": "A",
+   "AlapT": 232
+ },
+ {
+   "Adoszam": 26853,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "48",
+   "Adosav": "A",
+   "AlapT": 62
+ },
+ {
+   "Adoszam": 71567,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "50",
+   "Adosav": "A",
+   "AlapT": 46
+ },
+ {
+   "Adoszam": 45255,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "52",
+   "Adosav": "A",
+   "AlapT": 90
+ },
+ {
+   "Adoszam": 51465,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "54",
+   "Adosav": "A",
+   "AlapT": 112
+ },
+ {
+   "Adoszam": 63654,
+   "UtcaNev": "Nefelejcs",
+   "Hazszam": "56",
+   "Adosav": "A",
+   "AlapT": 278
+ },
+ {
+   "Adoszam": 27972,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "1A",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 69990,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "1B",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 71612,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "1C",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 48240,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "1D",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 27836,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "1E",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 22336,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "1F",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 12438,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "2",
+   "Adosav": "B",
+   "AlapT": 245
+ },
+ {
+   "Adoszam": 83426,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "3",
+   "Adosav": "B",
+   "AlapT": 182
+ },
+ {
+   "Adoszam": 97489,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "4",
+   "Adosav": "B",
+   "AlapT": 153
+ },
+ {
+   "Adoszam": 21415,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "5",
+   "Adosav": "B",
+   "AlapT": 185
+ },
+ {
+   "Adoszam": 21073,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "6A",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 90734,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "6B",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 15737,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "6C",
+   "Adosav": "B",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 90136,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "7",
+   "Adosav": "B",
+   "AlapT": 286
+ },
+ {
+   "Adoszam": 35678,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "8",
+   "Adosav": "B",
+   "AlapT": 72
+ },
+ {
+   "Adoszam": 61287,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "9",
+   "Adosav": "B",
+   "AlapT": 159
+ },
+ {
+   "Adoszam": 72401,
+   "UtcaNev": "Ordacsehi",
+   "Hazszam": "10",
+   "Adosav": "B",
+   "AlapT": 53
+ },
+ {
+   "Adoszam": 84515,
+   "UtcaNev": "Pesti",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 84
+ },
+ {
+   "Adoszam": 12515,
+   "UtcaNev": "Pesti",
+   "Hazszam": "2",
+   "Adosav": "C",
+   "AlapT": 141
+ },
+ {
+   "Adoszam": 16264,
+   "UtcaNev": "Pesti",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 65
+ },
+ {
+   "Adoszam": 71212,
+   "UtcaNev": "Pesti",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 209
+ },
+ {
+   "Adoszam": 42017,
+   "UtcaNev": "Pesti",
+   "Hazszam": "5",
+   "Adosav": "C",
+   "AlapT": 277
+ },
+ {
+   "Adoszam": 48855,
+   "UtcaNev": "Pesti",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 152
+ },
+ {
+   "Adoszam": 38696,
+   "UtcaNev": "Pesti",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 91
+ },
+ {
+   "Adoszam": 54530,
+   "UtcaNev": "Pesti",
+   "Hazszam": "8",
+   "Adosav": "C",
+   "AlapT": 173
+ },
+ {
+   "Adoszam": 53390,
+   "UtcaNev": "Pesti",
+   "Hazszam": "9",
+   "Adosav": "C",
+   "AlapT": 86
+ },
+ {
+   "Adoszam": 15918,
+   "UtcaNev": "Pesti",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 205
+ },
+ {
+   "Adoszam": 68826,
+   "UtcaNev": "Pesti",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 234
+ },
+ {
+   "Adoszam": 68468,
+   "UtcaNev": "Pesti",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 188
+ },
+ {
+   "Adoszam": 34662,
+   "UtcaNev": "Pesti",
+   "Hazszam": "13",
+   "Adosav": "C",
+   "AlapT": 109
+ },
+ {
+   "Adoszam": 41770,
+   "UtcaNev": "Pesti",
+   "Hazszam": "14",
+   "Adosav": "C",
+   "AlapT": 127
+ },
+ {
+   "Adoszam": 74346,
+   "UtcaNev": "Pesti",
+   "Hazszam": "15",
+   "Adosav": "C",
+   "AlapT": 297
+ },
+ {
+   "Adoszam": 97993,
+   "UtcaNev": "Pesti",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 62
+ },
+ {
+   "Adoszam": 44938,
+   "UtcaNev": "Pesti",
+   "Hazszam": "17",
+   "Adosav": "C",
+   "AlapT": 197
+ },
+ {
+   "Adoszam": 29207,
+   "UtcaNev": "Pesti",
+   "Hazszam": "18",
+   "Adosav": "C",
+   "AlapT": 287
+ },
+ {
+   "Adoszam": 94067,
+   "UtcaNev": "Pesti",
+   "Hazszam": "19",
+   "Adosav": "C",
+   "AlapT": 286
+ },
+ {
+   "Adoszam": 43266,
+   "UtcaNev": "Pesti",
+   "Hazszam": "20",
+   "Adosav": "C",
+   "AlapT": 209
+ },
+ {
+   "Adoszam": 63332,
+   "UtcaNev": "Pesti",
+   "Hazszam": "21",
+   "Adosav": "C",
+   "AlapT": 44
+ },
+ {
+   "Adoszam": 30777,
+   "UtcaNev": "Pesti",
+   "Hazszam": "22",
+   "Adosav": "C",
+   "AlapT": 195
+ },
+ {
+   "Adoszam": 19339,
+   "UtcaNev": "Pesti",
+   "Hazszam": "23",
+   "Adosav": "C",
+   "AlapT": 273
+ },
+ {
+   "Adoszam": 52699,
+   "UtcaNev": "Pesti",
+   "Hazszam": "24",
+   "Adosav": "C",
+   "AlapT": 189
+ },
+ {
+   "Adoszam": 56227,
+   "UtcaNev": "Pesti",
+   "Hazszam": "25",
+   "Adosav": "C",
+   "AlapT": 281
+ },
+ {
+   "Adoszam": 75622,
+   "UtcaNev": "Pesti",
+   "Hazszam": "26",
+   "Adosav": "C",
+   "AlapT": 267
+ },
+ {
+   "Adoszam": 42837,
+   "UtcaNev": "Pesti",
+   "Hazszam": "27",
+   "Adosav": "C",
+   "AlapT": 226
+ },
+ {
+   "Adoszam": 80181,
+   "UtcaNev": "Pesti",
+   "Hazszam": "28",
+   "Adosav": "C",
+   "AlapT": 147
+ },
+ {
+   "Adoszam": 90558,
+   "UtcaNev": "Pesti",
+   "Hazszam": "29",
+   "Adosav": "C",
+   "AlapT": 224
+ },
+ {
+   "Adoszam": 48105,
+   "UtcaNev": "Pesti",
+   "Hazszam": "30",
+   "Adosav": "C",
+   "AlapT": 236
+ },
+ {
+   "Adoszam": 12479,
+   "UtcaNev": "Pesti",
+   "Hazszam": "31",
+   "Adosav": "C",
+   "AlapT": 278
+ },
+ {
+   "Adoszam": 22075,
+   "UtcaNev": "Pesti",
+   "Hazszam": "32",
+   "Adosav": "C",
+   "AlapT": 48
+ },
+ {
+   "Adoszam": 85243,
+   "UtcaNev": "Pesti",
+   "Hazszam": "33",
+   "Adosav": "C",
+   "AlapT": 92
+ },
+ {
+   "Adoszam": 28430,
+   "UtcaNev": "Pesti",
+   "Hazszam": "34",
+   "Adosav": "C",
+   "AlapT": 281
+ },
+ {
+   "Adoszam": 21105,
+   "UtcaNev": "Pesti",
+   "Hazszam": "35",
+   "Adosav": "C",
+   "AlapT": 102
+ },
+ {
+   "Adoszam": 46543,
+   "UtcaNev": "Pesti",
+   "Hazszam": "36",
+   "Adosav": "C",
+   "AlapT": 134
+ },
+ {
+   "Adoszam": 21582,
+   "UtcaNev": "Pesti",
+   "Hazszam": "37",
+   "Adosav": "C",
+   "AlapT": 218
+ },
+ {
+   "Adoszam": 76160,
+   "UtcaNev": "Pesti",
+   "Hazszam": "38",
+   "Adosav": "C",
+   "AlapT": 195
+ },
+ {
+   "Adoszam": 25314,
+   "UtcaNev": "Pesti",
+   "Hazszam": "39",
+   "Adosav": "C",
+   "AlapT": 71
+ },
+ {
+   "Adoszam": 38551,
+   "UtcaNev": "Pesti",
+   "Hazszam": "40",
+   "Adosav": "C",
+   "AlapT": 154
+ },
+ {
+   "Adoszam": 10843,
+   "UtcaNev": "Pesti",
+   "Hazszam": "41",
+   "Adosav": "C",
+   "AlapT": 116
+ },
+ {
+   "Adoszam": 53090,
+   "UtcaNev": "Pesti",
+   "Hazszam": "42",
+   "Adosav": "C",
+   "AlapT": 66
+ },
+ {
+   "Adoszam": 61579,
+   "UtcaNev": "Pesti",
+   "Hazszam": "43",
+   "Adosav": "C",
+   "AlapT": 265
+ },
+ {
+   "Adoszam": 52447,
+   "UtcaNev": "Pesti",
+   "Hazszam": "44",
+   "Adosav": "C",
+   "AlapT": 77
+ },
+ {
+   "Adoszam": 64927,
+   "UtcaNev": "Pesti",
+   "Hazszam": "45",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 73098,
+   "UtcaNev": "Pesti",
+   "Hazszam": "46",
+   "Adosav": "C",
+   "AlapT": 116
+ },
+ {
+   "Adoszam": 30798,
+   "UtcaNev": "Pesti",
+   "Hazszam": "47",
+   "Adosav": "C",
+   "AlapT": 185
+ },
+ {
+   "Adoszam": 96368,
+   "UtcaNev": "Pesti",
+   "Hazszam": "48",
+   "Adosav": "C",
+   "AlapT": 109
+ },
+ {
+   "Adoszam": 62945,
+   "UtcaNev": "Pesti",
+   "Hazszam": "49",
+   "Adosav": "C",
+   "AlapT": 253
+ },
+ {
+   "Adoszam": 77670,
+   "UtcaNev": "Pesti",
+   "Hazszam": "50",
+   "Adosav": "C",
+   "AlapT": 207
+ },
+ {
+   "Adoszam": 14348,
+   "UtcaNev": "Pesti",
+   "Hazszam": "51",
+   "Adosav": "C",
+   "AlapT": 55
+ },
+ {
+   "Adoszam": 65543,
+   "UtcaNev": "Pesti",
+   "Hazszam": "52",
+   "Adosav": "C",
+   "AlapT": 219
+ },
+ {
+   "Adoszam": 41668,
+   "UtcaNev": "Pesti",
+   "Hazszam": "53",
+   "Adosav": "C",
+   "AlapT": 180
+ },
+ {
+   "Adoszam": 98196,
+   "UtcaNev": "Pesti",
+   "Hazszam": "54",
+   "Adosav": "C",
+   "AlapT": 188
+ },
+ {
+   "Adoszam": 42027,
+   "UtcaNev": "Pesti",
+   "Hazszam": "55",
+   "Adosav": "C",
+   "AlapT": 180
+ },
+ {
+   "Adoszam": 90127,
+   "UtcaNev": "Pesti",
+   "Hazszam": "56",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 64569,
+   "UtcaNev": "Pesti",
+   "Hazszam": "57",
+   "Adosav": "C",
+   "AlapT": 64
+ },
+ {
+   "Adoszam": 48271,
+   "UtcaNev": "Pesti",
+   "Hazszam": "58",
+   "Adosav": "C",
+   "AlapT": 123
+ },
+ {
+   "Adoszam": 69728,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "1",
+   "Adosav": "B",
+   "AlapT": 87
+ },
+ {
+   "Adoszam": 58947,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "2",
+   "Adosav": "B",
+   "AlapT": 275
+ },
+ {
+   "Adoszam": 10495,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "3A",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 22887,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "3B",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 88798,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "4",
+   "Adosav": "B",
+   "AlapT": 62
+ },
+ {
+   "Adoszam": 10950,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "5",
+   "Adosav": "B",
+   "AlapT": 279
+ },
+ {
+   "Adoszam": 46812,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "6",
+   "Adosav": "B",
+   "AlapT": 233
+ },
+ {
+   "Adoszam": 42616,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "7",
+   "Adosav": "B",
+   "AlapT": 54
+ },
+ {
+   "Adoszam": 75202,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "8",
+   "Adosav": "B",
+   "AlapT": 170
+ },
+ {
+   "Adoszam": 55517,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "9",
+   "Adosav": "B",
+   "AlapT": 170
+ },
+ {
+   "Adoszam": 55574,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "10",
+   "Adosav": "B",
+   "AlapT": 52
+ },
+ {
+   "Adoszam": 13949,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "11A",
+   "Adosav": "B",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 13949,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "11B",
+   "Adosav": "B",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 87398,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "12",
+   "Adosav": "B",
+   "AlapT": 114
+ },
+ {
+   "Adoszam": 93085,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "13A",
+   "Adosav": "B",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 57698,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "13B",
+   "Adosav": "B",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 61870,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "14",
+   "Adosav": "B",
+   "AlapT": 74
+ },
+ {
+   "Adoszam": 58481,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "15",
+   "Adosav": "B",
+   "AlapT": 197
+ },
+ {
+   "Adoszam": 64661,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "16",
+   "Adosav": "B",
+   "AlapT": 79
+ },
+ {
+   "Adoszam": 59411,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "17A",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 59411,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "17B",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 25964,
+   "UtcaNev": "Pozsonyi",
+   "Hazszam": "19",
+   "Adosav": "B",
+   "AlapT": 179
+ },
+ {
+   "Adoszam": 41384,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 263
+ },
+ {
+   "Adoszam": 39200,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 128
+ },
+ {
+   "Adoszam": 93834,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "3",
+   "Adosav": "A",
+   "AlapT": 130
+ },
+ {
+   "Adoszam": 90011,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "4",
+   "Adosav": "A",
+   "AlapT": 274
+ },
+ {
+   "Adoszam": 54168,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "5",
+   "Adosav": "A",
+   "AlapT": 240
+ },
+ {
+   "Adoszam": 54208,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "6",
+   "Adosav": "A",
+   "AlapT": 278
+ },
+ {
+   "Adoszam": 37973,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "7",
+   "Adosav": "A",
+   "AlapT": 159
+ },
+ {
+   "Adoszam": 52604,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 300
+ },
+ {
+   "Adoszam": 51683,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "9",
+   "Adosav": "A",
+   "AlapT": 127
+ },
+ {
+   "Adoszam": 68434,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "10",
+   "Adosav": "A",
+   "AlapT": 218
+ },
+ {
+   "Adoszam": 84226,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "11",
+   "Adosav": "A",
+   "AlapT": 268
+ },
+ {
+   "Adoszam": 42423,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "12",
+   "Adosav": "A",
+   "AlapT": 211
+ },
+ {
+   "Adoszam": 57843,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "13",
+   "Adosav": "A",
+   "AlapT": 203
+ },
+ {
+   "Adoszam": 73916,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "14",
+   "Adosav": "A",
+   "AlapT": 123
+ },
+ {
+   "Adoszam": 69341,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "15",
+   "Adosav": "A",
+   "AlapT": 156
+ },
+ {
+   "Adoszam": 81463,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "16",
+   "Adosav": "A",
+   "AlapT": 91
+ },
+ {
+   "Adoszam": 44978,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "17",
+   "Adosav": "A",
+   "AlapT": 86
+ },
+ {
+   "Adoszam": 53486,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "18",
+   "Adosav": "A",
+   "AlapT": 166
+ },
+ {
+   "Adoszam": 24487,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "19",
+   "Adosav": "A",
+   "AlapT": 292
+ },
+ {
+   "Adoszam": 75338,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "20",
+   "Adosav": "A",
+   "AlapT": 289
+ },
+ {
+   "Adoszam": 33826,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "21",
+   "Adosav": "A",
+   "AlapT": 196
+ },
+ {
+   "Adoszam": 92905,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "22",
+   "Adosav": "A",
+   "AlapT": 227
+ },
+ {
+   "Adoszam": 39761,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "23",
+   "Adosav": "A",
+   "AlapT": 178
+ },
+ {
+   "Adoszam": 33032,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "24A",
+   "Adosav": "B",
+   "AlapT": 67
+ },
+ {
+   "Adoszam": 33032,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "24B",
+   "Adosav": "B",
+   "AlapT": 193
+ },
+ {
+   "Adoszam": 89060,
+   "UtcaNev": "Rezeda",
+   "Hazszam": "26",
+   "Adosav": "B",
+   "AlapT": 47
+ },
+ {
+   "Adoszam": 47997,
+   "UtcaNev": "Sas",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 168
+ },
+ {
+   "Adoszam": 27329,
+   "UtcaNev": "Sas",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 234
+ },
+ {
+   "Adoszam": 54143,
+   "UtcaNev": "Sas",
+   "Hazszam": "3",
+   "Adosav": "A",
+   "AlapT": 129
+ },
+ {
+   "Adoszam": 23010,
+   "UtcaNev": "Sas",
+   "Hazszam": "4",
+   "Adosav": "A",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 60792,
+   "UtcaNev": "Sas",
+   "Hazszam": "5",
+   "Adosav": "A",
+   "AlapT": 267
+ },
+ {
+   "Adoszam": 97052,
+   "UtcaNev": "Sas",
+   "Hazszam": "6",
+   "Adosav": "A",
+   "AlapT": 93
+ },
+ {
+   "Adoszam": 77296,
+   "UtcaNev": "Sas",
+   "Hazszam": "7",
+   "Adosav": "A",
+   "AlapT": 145
+ },
+ {
+   "Adoszam": 33534,
+   "UtcaNev": "Sas",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 102
+ },
+ {
+   "Adoszam": 77884,
+   "UtcaNev": "Sas",
+   "Hazszam": "9",
+   "Adosav": "A",
+   "AlapT": 155
+ },
+ {
+   "Adoszam": 74609,
+   "UtcaNev": "Sas",
+   "Hazszam": "10",
+   "Adosav": "A",
+   "AlapT": 223
+ },
+ {
+   "Adoszam": 58014,
+   "UtcaNev": "Sas",
+   "Hazszam": "11",
+   "Adosav": "A",
+   "AlapT": 468
+ },
+ {
+   "Adoszam": 14248,
+   "UtcaNev": "Sas",
+   "Hazszam": "12",
+   "Adosav": "A",
+   "AlapT": 208
+ },
+ {
+   "Adoszam": 26955,
+   "UtcaNev": "Sas",
+   "Hazszam": "13",
+   "Adosav": "A",
+   "AlapT": 50
+ },
+ {
+   "Adoszam": 78747,
+   "UtcaNev": "Sas",
+   "Hazszam": "14",
+   "Adosav": "A",
+   "AlapT": 95
+ },
+ {
+   "Adoszam": 26308,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 273
+ },
+ {
+   "Adoszam": 74835,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 164
+ },
+ {
+   "Adoszam": 61324,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "3A",
+   "Adosav": "B",
+   "AlapT": 153
+ },
+ {
+   "Adoszam": 56788,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "3B",
+   "Adosav": "B",
+   "AlapT": 171
+ },
+ {
+   "Adoszam": 26766,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "4",
+   "Adosav": "B",
+   "AlapT": 52
+ },
+ {
+   "Adoszam": 57428,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "5",
+   "Adosav": "B",
+   "AlapT": 96
+ },
+ {
+   "Adoszam": 93666,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "6",
+   "Adosav": "B",
+   "AlapT": 201
+ },
+ {
+   "Adoszam": 87083,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "7",
+   "Adosav": "B",
+   "AlapT": 246
+ },
+ {
+   "Adoszam": 75008,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "8",
+   "Adosav": "B",
+   "AlapT": 290
+ },
+ {
+   "Adoszam": 30504,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "9",
+   "Adosav": "B",
+   "AlapT": 186
+ },
+ {
+   "Adoszam": 33032,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "10",
+   "Adosav": "B",
+   "AlapT": 97
+ },
+ {
+   "Adoszam": 98791,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "11",
+   "Adosav": "B",
+   "AlapT": 189
+ },
+ {
+   "Adoszam": 33764,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "12",
+   "Adosav": "B",
+   "AlapT": 175
+ },
+ {
+   "Adoszam": 74410,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "13",
+   "Adosav": "B",
+   "AlapT": 59
+ },
+ {
+   "Adoszam": 19586,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "14",
+   "Adosav": "B",
+   "AlapT": 133
+ },
+ {
+   "Adoszam": 98769,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "15A",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 47371,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "15B",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 23434,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "16A",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 38792,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "16B",
+   "Adosav": "B",
+   "AlapT": 120
+ },
+ {
+   "Adoszam": 68396,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "17",
+   "Adosav": "B",
+   "AlapT": 251
+ },
+ {
+   "Adoszam": 88594,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "18",
+   "Adosav": "B",
+   "AlapT": 282
+ },
+ {
+   "Adoszam": 63031,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "19",
+   "Adosav": "B",
+   "AlapT": 295
+ },
+ {
+   "Adoszam": 90775,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "20",
+   "Adosav": "B",
+   "AlapT": 114
+ },
+ {
+   "Adoszam": 34645,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "21",
+   "Adosav": "B",
+   "AlapT": 88
+ },
+ {
+   "Adoszam": 66309,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "22",
+   "Adosav": "B",
+   "AlapT": 274
+ },
+ {
+   "Adoszam": 15558,
+   "UtcaNev": "Szepesi",
+   "Hazszam": "23",
+   "Adosav": "B",
+   "AlapT": 162
+ },
+ {
+   "Adoszam": 31451,
+   "UtcaNev": "Temesi",
+   "Hazszam": "1",
+   "Adosav": "C",
+   "AlapT": 209
+ },
+ {
+   "Adoszam": 73683,
+   "UtcaNev": "Temesi",
+   "Hazszam": "2A",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 23008,
+   "UtcaNev": "Temesi",
+   "Hazszam": "2B",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 56492,
+   "UtcaNev": "Temesi",
+   "Hazszam": "2C",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 30863,
+   "UtcaNev": "Temesi",
+   "Hazszam": "2D",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 47751,
+   "UtcaNev": "Temesi",
+   "Hazszam": "3",
+   "Adosav": "C",
+   "AlapT": 70
+ },
+ {
+   "Adoszam": 54115,
+   "UtcaNev": "Temesi",
+   "Hazszam": "4",
+   "Adosav": "C",
+   "AlapT": 169
+ },
+ {
+   "Adoszam": 95826,
+   "UtcaNev": "Temesi",
+   "Hazszam": "5A",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 23231,
+   "UtcaNev": "Temesi",
+   "Hazszam": "5B",
+   "Adosav": "C",
+   "AlapT": 100
+ },
+ {
+   "Adoszam": 95645,
+   "UtcaNev": "Temesi",
+   "Hazszam": "6",
+   "Adosav": "C",
+   "AlapT": 67
+ },
+ {
+   "Adoszam": 25359,
+   "UtcaNev": "Temesi",
+   "Hazszam": "7",
+   "Adosav": "C",
+   "AlapT": 48
+ },
+ {
+   "Adoszam": 60493,
+   "UtcaNev": "Temesi",
+   "Hazszam": "8",
+   "Adosav": "C",
+   "AlapT": 121
+ },
+ {
+   "Adoszam": 13779,
+   "UtcaNev": "Temesi",
+   "Hazszam": "9",
+   "Adosav": "C",
+   "AlapT": 62
+ },
+ {
+   "Adoszam": 75797,
+   "UtcaNev": "Temesi",
+   "Hazszam": "10",
+   "Adosav": "C",
+   "AlapT": 202
+ },
+ {
+   "Adoszam": 86719,
+   "UtcaNev": "Temesi",
+   "Hazszam": "11",
+   "Adosav": "C",
+   "AlapT": 173
+ },
+ {
+   "Adoszam": 88414,
+   "UtcaNev": "Temesi",
+   "Hazszam": "12",
+   "Adosav": "C",
+   "AlapT": 299
+ },
+ {
+   "Adoszam": 83360,
+   "UtcaNev": "Temesi",
+   "Hazszam": "13",
+   "Adosav": "C",
+   "AlapT": 154
+ },
+ {
+   "Adoszam": 16549,
+   "UtcaNev": "Temesi",
+   "Hazszam": "14",
+   "Adosav": "C",
+   "AlapT": 62
+ },
+ {
+   "Adoszam": 33724,
+   "UtcaNev": "Temesi",
+   "Hazszam": "15A",
+   "Adosav": "C",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 33724,
+   "UtcaNev": "Temesi",
+   "Hazszam": "15B",
+   "Adosav": "C",
+   "AlapT": 60
+ },
+ {
+   "Adoszam": 33347,
+   "UtcaNev": "Temesi",
+   "Hazszam": "16",
+   "Adosav": "C",
+   "AlapT": 86
+ },
+ {
+   "Adoszam": 85862,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "1",
+   "Adosav": "A",
+   "AlapT": 131
+ },
+ {
+   "Adoszam": 46616,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "2",
+   "Adosav": "A",
+   "AlapT": 102
+ },
+ {
+   "Adoszam": 82966,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "3",
+   "Adosav": "A",
+   "AlapT": 73
+ },
+ {
+   "Adoszam": 87011,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "4",
+   "Adosav": "A",
+   "AlapT": 143
+ },
+ {
+   "Adoszam": 91002,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "5",
+   "Adosav": "A",
+   "AlapT": 265
+ },
+ {
+   "Adoszam": 86409,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "6",
+   "Adosav": "A",
+   "AlapT": 298
+ },
+ {
+   "Adoszam": 21252,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "7",
+   "Adosav": "A",
+   "AlapT": 80
+ },
+ {
+   "Adoszam": 61735,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "8",
+   "Adosav": "A",
+   "AlapT": 203
+ },
+ {
+   "Adoszam": 97812,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "9",
+   "Adosav": "A",
+   "AlapT": 84
+ },
+ {
+   "Adoszam": 37480,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "10",
+   "Adosav": "A",
+   "AlapT": 812
+ },
+ {
+   "Adoszam": 25820,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "12",
+   "Adosav": "A",
+   "AlapT": 98
+ },
+ {
+   "Adoszam": 95126,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "14",
+   "Adosav": "A",
+   "AlapT": 47
+ },
+ {
+   "Adoszam": 65000,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "15",
+   "Adosav": "A",
+   "AlapT": 77
+ },
+ {
+   "Adoszam": 67529,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "16",
+   "Adosav": "A",
+   "AlapT": 154
+ },
+ {
+   "Adoszam": 21824,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "18",
+   "Adosav": "A",
+   "AlapT": 298
+ },
+ {
+   "Adoszam": 12345,
+   "UtcaNev": "Zsomboly",
+   "Hazszam": "20",
+   "Adosav": "A",
+   "AlapT": 134
+ }
+]

@@ -82,11 +82,15 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="utca.json" />
+    <None Include="utca.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Építményadó.pdf" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="utca.txt" />
+    <Content Include="utca.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
