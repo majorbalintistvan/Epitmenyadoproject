@@ -1,23 +1,24 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using Newtonsoft.Json;
 
 
 namespace Epitmenyadoproject
 {
     internal class Megoldás
     {
-        public List<Építményadó> Epitmenyadok { get; private set; }
 
+       public List<Építményadó> Epitmenyadok { get; private set; } // később törölhető, ha nem kell
+       public List<Építményadó> epitmenyadok = new List<Építményadó>();
         
+       public int TelkekSzáma => epitmenyadok.Count;
 
-        public string GetAddressByAdoszam(int adoszam)
+       public string GetAddressByAdoszam(int adoszam)
         {
-            foreach (var e in Epitmenyadok)
+            foreach (var e in epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
             {
                 if (e.Adoszam == adoszam)
                 {
@@ -28,10 +29,9 @@ namespace Epitmenyadoproject
         }
 
 
-
         public Megoldás(string forrás)
         {
-            Epitmenyadok = Építményadó.ReadFromJson(forrás);
+            epitmenyadok = Építményadó.ReadFromJson(forrás);
         }
     }
 }
