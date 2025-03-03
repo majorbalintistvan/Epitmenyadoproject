@@ -14,7 +14,7 @@ namespace Epitmenyadoproject
             Megoldás m = new Megoldás(forrás);
             Console.WriteLine(m);
             Console.WriteLine($"2.feladat: A mintában {m.TelkekSzáma} telek szerepel.");
-
+            
             // A - 800, B - 600, C - 100
             Console.ReadKey();
         }

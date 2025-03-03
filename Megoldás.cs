@@ -11,13 +11,13 @@ namespace Epitmenyadoproject
 {
     internal class Megoldás
     {
-        public List<Építményadó> Epitmenyadok { get; private set; }
-
-        public int TelkekSzáma => Epitmenyadok.Count;
+        public List<Építményadó> epitmenyadok = new List<Építményadó>();
+        
+        public int TelkekSzáma => epitmenyadok.Count;
 
         public Megoldás(string forrás)
         {
-            Epitmenyadok = Építményadó.ReadFromJson(forrás);
+            epitmenyadok = Építményadó.ReadFromJson(forrás);
         }
     }
 }
