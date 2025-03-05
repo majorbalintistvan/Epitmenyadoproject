@@ -14,9 +14,11 @@ namespace Epitmenyadoproject
             Megoldás m = new Megoldás(forrás);
           
             Console.WriteLine($"2.feladat: A mintában {m.TelkekSzáma} telek szerepel.");
-            Console.Write($"3. feladat. Egy tulajdonos adószáma: ");
+
+            Console.Write($"3. feladat. Egy tulajdonos adószáma:");
             int adoszam = int.Parse(Console.ReadLine());
-            Console.Write(m.GetAddressByAdoszam(adoszam));
+            Console.Write(m.LakcímKeresés(adoszam));
+
 
             // A - 800, B - 600, C - 100
             Console.ReadKey();

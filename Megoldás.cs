@@ -11,22 +11,31 @@ namespace Epitmenyadoproject
     internal class Megoldás
     {
 
-       public List<Építményadó> Epitmenyadok { get; private set; } // később törölhető, ha nem kell
+       
        public List<Építményadó> epitmenyadok = new List<Építményadó>();
         
        public int TelkekSzáma => epitmenyadok.Count;
 
-       public string GetAddressByAdoszam(int adoszam)
+       public string LakcímKeresés(int adoszam)
         {
+            string lakcím = "";
             foreach (var e in epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
             {
                 if (e.Adoszam == adoszam)
                 {
-                    return $"Utca: {e.UtcaNev}, Házszám: {e.Hazszam}";
+                    lakcím += $"{e.UtcaNev} utca {e.Hazszam}\n";
                 }
+                
             }
-            return "Nem szerepel az adatállományban.";
+            if(lakcím == "")
+            {
+                lakcím = "Nem szerepel az adatállományban.";
+            }
+            return lakcím;
         }
+
+
+        
 
 
         public Megoldás(string forrás)
