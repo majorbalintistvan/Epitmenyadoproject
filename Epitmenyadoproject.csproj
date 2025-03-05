@@ -80,6 +80,7 @@
     <Compile Include="Építményadó.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".editorconfig" />
     <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="utca.json">
