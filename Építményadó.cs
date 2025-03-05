@@ -14,7 +14,7 @@ namespace Epitmenyadoproject
         public string Adosav { get; private set; }
         public int Alapterulet { get; private set; }
 
-           
+
 
         public static List<Építményadó> ReadFromJson(string forrás)
         {
