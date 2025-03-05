@@ -11,7 +11,7 @@ namespace Epitmenyadoproject
     internal class Megoldás
     {
 
-       public List<Építményadó> Epitmenyadok { get; private set; } // később törölhető, ha nem kell
+       
        public List<Építményadó> epitmenyadok = new List<Építményadó>();
         
        public int TelkekSzáma => epitmenyadok.Count;
@@ -19,7 +19,7 @@ namespace Epitmenyadoproject
        public string GetAddressByAdoszam(int adoszam)
         {
             string result = "";
-            foreach (var e in Epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
+            foreach (var e in epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
             {
                 if (e.Adoszam == adoszam)
                 {
@@ -30,9 +30,18 @@ namespace Epitmenyadoproject
         }
 
 
+        public Építményadó Teszt
+        {
+            get
+            {
+                return epitmenyadok[1];
+            }
+        }
+
+
         public Megoldás(string forrás)
         {
-            Epitmenyadok = Építményadó.ReadFromJson(forrás);
+            epitmenyadok = Építményadó.ReadFromJson(forrás);
         }
     }
 }

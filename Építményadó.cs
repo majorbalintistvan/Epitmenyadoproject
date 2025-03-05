@@ -11,14 +11,11 @@ namespace Epitmenyadoproject
 {
     internal class Építményadó
     {
-
         public int Adoszam { get; private set; }
         public string UtcaNev { get; private set; }
         public int Hazszam { get; private set; }
         public string Adosav { get; private set; }
         public int Alapterulet { get; private set; }
-
-           
 
         public static List<Építményadó> ReadFromJson(string forrás)
         {
