@@ -16,27 +16,26 @@ namespace Epitmenyadoproject
         
        public int TelkekSzáma => epitmenyadok.Count;
 
-       public string GetAddressByAdoszam(int adoszam)
+       public string LakcímKeresés(int adoszam)
         {
-            string result = "";
+            string lakcím = "";
             foreach (var e in epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
             {
                 if (e.Adoszam == adoszam)
                 {
-                    result += $"Utca: {e.UtcaNev}, Házszám: {e.Hazszam}";
+                    lakcím += $"{e.UtcaNev} utca {e.Hazszam}\n";
                 }
+                
             }
-            return result;
-        }
-
-
-        public Építményadó Teszt
-        {
-            get
+            if(lakcím == "")
             {
-                return epitmenyadok[1];
+                lakcím = "Nem szerepel az adatállományban.";
             }
+            return lakcím;
         }
+
+
+        
 
 
         public Megoldás(string forrás)
