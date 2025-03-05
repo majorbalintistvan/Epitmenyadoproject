@@ -1,13 +1,14 @@
 
 # 4. Építményadó
----
 Egy Balaton-parti önkormányzat építményadót vezet be. Az adó mértéke a telken lévõ 
 építmény alapterületétõl és a teleknek a Balatontól mért távolságától függ. 
 A telkeket a Balatonparttól mért távolságtól függõen három sávba sorolták be. Az A sávba 
 azok a telkek kerültek, amelyek 300 méternél közelebb vannak a tóhoz a B sáv az elõzõn túl 
 600 méter távolságig terjed, a többi telek a C sávba tartozik. Az építmény után 
 négyzetméterenként fizetendõ összeg sávonként eltérõ, azonban, ha az így kiszámított összeg 
-nem éri el a 10.000 Ft-ot, akkor az adott építmény után nem kell adót fizetni.  
+nem éri el a 10.000 Ft-ot, akkor az adott építmény után nem kell adót fizetni. 
+
+--- 
 A testületi döntést az Adó Ügyosztály egy mintával készítette elõ, amely csupán néhány utca 
 adatait tartalmazza. Ezek az adatok az `utca.txt` fájlban vannak. A fájl elsõ sorában a három 
 adósávhoz tartozó négyzetméterenként fizetendõ összeg található A, B, C sorrendben, egy-egy 
@@ -20,13 +21,15 @@ szóközzel elválasztva:
 90561 Aradi 10 C 168  
 … 
 ```
-
+---
 A többi sorban egy-egy építmény adatai szerepelnek egy-egy szóközzel elválasztva. Az elsõ 
 a telek tulajdonosának ötjegyû adószáma; egy tulajdonosnak több telke is lehet. A második adat 
 az utca neve, amely nem tartalmazhat szóközt. A harmadik adat a házszám, majd az adósáv 
 megnevezése, végül az építmény alapterülete következik. A minta harmadik sorában például 
 azt látjuk, hogy a 33366 adószámú tulajdonos telke az Aradi utca 8A-ban található, és a C sávba 
-esõ telken álló építmény alapterülete 180 m^2^.  
+esõ telken álló építmény alapterülete 180 m^2^.
+
+---
 A fájl legfeljebb 1000 telek adatait tartalmazza. A feladat megoldása során kihasználhatja, 
 hogy a fájlban az adatok utca, azon belül pedig házszám szerinti sorrendben következnek.
 Készítsen programot, amely az `utca.txt` állomány adatait felhasználva az alábbi 
@@ -36,8 +39,10 @@ ellenõriznie, és feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak m
 A képernyõre írást igénylõ részfeladatok esetén – a mintához tartalmában hasonlóan – írja 
 ki a képernyõre a feladat sorszámát (például: 3. feladat), és utaljon a kiírt tartalomra is! 
 Ha a felhasználótól kér be adatot, jelenítse meg a képernyõn, hogy milyen értéket vár! Mindkét 
-esetben az ékezetmentes kiírás is elfogadott. 
-## 1. feladat  
+esetben az ékezetmentes kiírás is elfogadott.
+
+---
+##  1. feladat  
 Olvassa be és tárolja el az `utca.txt` állományban talált adatokat, és annak 
 felhasználásával oldja meg a következõ feladatokat! 
 ## 2. feladat
