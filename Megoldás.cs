@@ -18,20 +18,21 @@ namespace Epitmenyadoproject
 
        public string GetAddressByAdoszam(int adoszam)
         {
-            foreach (var e in epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
+            string result = "";
+            foreach (var e in Epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
             {
                 if (e.Adoszam == adoszam)
                 {
-                    return $"Utca: {e.UtcaNev}, Házszám: {e.Hazszam}";
+                    result += $"Utca: {e.UtcaNev}, Házszám: {e.Hazszam}";
                 }
             }
-            return "Nem szerepel az adatállományban.";
+            return result;
         }
 
 
         public Megoldás(string forrás)
         {
-            epitmenyadok = Építményadó.ReadFromJson(forrás);
+            Epitmenyadok = Építményadó.ReadFromJson(forrás);
         }
     }
 }
