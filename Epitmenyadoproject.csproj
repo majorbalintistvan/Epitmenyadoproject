@@ -85,6 +85,7 @@
     <None Include="utca.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="Építményadó.md" />
     <None Include="Építményadó.pdf" />
   </ItemGroup>
   <ItemGroup>
