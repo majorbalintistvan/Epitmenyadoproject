@@ -17,13 +17,12 @@ namespace Epitmenyadoproject
         public int TelkekSzáma => epitmenyadok.Count;
         private Dictionary<string, int> adosavok = new Dictionary<string, int> {{"A",800},{"B",600},{"C",100}};
 
-        public List<IGrouping<string, Építményadó>> teszt => epitmenyadok.GroupBy(x => x.UtcaNev).ToList();
-
-        public List<string> utcakTobbAdosavval => epitmenyadok
-       .GroupBy(x => x.UtcaNev)
-       .Where(g => g.Select(x => x.Adosav).Distinct().Count() > 1)
-       .Select(g => g.Key)
-       .ToList();
+        //6os feladat linquekkel:
+       // public List<string> utcakTobbAdosavval => epitmenyadok
+       //.GroupBy(x => x.UtcaNev)
+       //.Where(g => g.Select(x => x.Adosav).Distinct().Count() > 1)
+       //.Select(g => g.Key)
+       //.ToList();
 
 
         public string LakcímKeresés(int adoszam)
@@ -42,6 +41,36 @@ namespace Epitmenyadoproject
             }
             return lakcím;
         }
+
+        public List<string> utcakTobbAdosavval
+        {
+            get
+            {
+                Dictionary<string, HashSet<string>> utcaAdosavok = new Dictionary<string, HashSet<string>>();
+
+                foreach (var e in epitmenyadok)
+                {
+                    if (!utcaAdosavok.ContainsKey(e.UtcaNev))
+                    {
+                        utcaAdosavok[e.UtcaNev] = new HashSet<string>();
+                    }
+                    utcaAdosavok[e.UtcaNev].Add(e.Adosav);
+                }
+
+                List<string> eredmeny = new List<string>();
+
+                foreach (var utca in utcaAdosavok)
+                {
+                    if (utca.Value.Count > 1)
+                    {
+                        eredmeny.Add(utca.Key);
+                    }
+                }
+
+                return eredmeny;
+            }
+        }
+
 
         public int ado(string adosav, int alapterület)
         {
