@@ -82,6 +82,11 @@ namespace Epitmenyadoproject
             }
         }
 
+        public void fizetendo_txt(string allomany)
+        {
+            File.WriteAllLines(allomany, fizetendo_adok);
+        }
+
         public Megoldás(string forrás)
         {
             epitmenyadok = Építményadó.ReadFromJson(forrás);

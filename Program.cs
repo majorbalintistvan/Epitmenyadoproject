@@ -19,6 +19,8 @@ namespace Epitmenyadoproject
             int adoszam = int.Parse(Console.ReadLine());
             Console.Write(m.LakcímKeresés(adoszam));
             Console.WriteLine($"\n5. feladat. {m.adooszz_kiir}");
+            Console.WriteLine("7. feladat: Fizetendő adó tulajonként (txt)");
+            m.fizetendo_txt("fizetendo.txt");
             Console.ReadKey();
         }
     }
