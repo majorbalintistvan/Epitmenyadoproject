@@ -36,8 +36,37 @@ namespace Epitmenyadoproject
         public int ado(string adosav, int alapterület)
         {
             int fizetendo_ado= adosavok[adosav]*alapterület;
-            if (fizetendo_ado < 10000) fizetendo_ado = 0;
-            return fizetendo_ado;
+            return fizetendo_ado>=10000? fizetendo_ado : 0;
+        }
+        private SortedDictionary<string,(int, int)> adoosszegzes
+        {
+            get
+            {
+                SortedDictionary<string, (int darab, int osszeg)> stat = new SortedDictionary<string, (int darab, int osszeg)>();
+                foreach (var e in epitmenyadok)
+                {
+                    int f_ado = ado(e.Adosav, e.AlapT);
+                    if (stat.ContainsKey(e.Adosav))
+                    {
+                        stat[e.Adosav] = (stat[e.Adosav].darab + 1, stat[e.Adosav].osszeg + f_ado);
+                    }
+                    else stat.Add(e.Adosav, (1, f_ado));
+                }
+                return stat;
+            }
+        }
+        public string adooszz_kiir
+        {
+            get 
+            {
+                string válasz = string.Empty;
+                SortedDictionary<string, (int darab,int osszeg)> statisztika=adoosszegzes;
+                foreach (var item in statisztika)
+                {
+                    válasz += $"\n{item.Key} sávba {item.Value.darab} telek esik, az adó {item.Value.osszeg} Ft.";
+                }
+                return válasz;
+            }
         }
         public Megoldás(string forrás)
         {
