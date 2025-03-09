@@ -22,12 +22,13 @@ namespace Epitmenyadoproject
           
             Console.Write(m.LakcímKeresés(adoszam));
             Console.WriteLine($"\n5. feladat. {m.adooszz_kiir}");
-
             Console.WriteLine("6. feladat:");
             foreach (var utca in m.utcakTobbAdosavval)
             {
                 Console.WriteLine(utca);
             }
+            Console.WriteLine("7. feladat: Fizetendő adó tulajonként (txt)");
+            m.fizetendo_txt("fizetendo.txt");
 
             // A - 800, B - 600, C - 100
 
