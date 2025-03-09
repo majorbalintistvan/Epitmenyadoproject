@@ -68,6 +68,20 @@ namespace Epitmenyadoproject
                 return válasz;
             }
         }
+
+        public HashSet<string> fizetendo_adok
+        {
+            get
+            {
+                HashSet<string> adatok = new HashSet<string>();
+                foreach(var e in epitmenyadok)
+                {
+                    adatok.Add($"{e.Adoszam} {ado(e.Adosav, e.AlapT)}") ;
+                }
+                return adatok;
+            }
+        }
+
         public Megoldás(string forrás)
         {
             epitmenyadok = Építményadó.ReadFromJson(forrás);
