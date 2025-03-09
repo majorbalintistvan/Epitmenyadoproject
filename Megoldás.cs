@@ -17,10 +17,19 @@ namespace Epitmenyadoproject
         public int TelkekSzáma => epitmenyadok.Count;
         private Dictionary<string, int> adosavok = new Dictionary<string, int> {{"A",800},{"B",600},{"C",100}};
 
-       public string LakcímKeresés(int adoszam)
+        public List<IGrouping<string, Építményadó>> teszt => epitmenyadok.GroupBy(x => x.UtcaNev).ToList();
+
+        public List<string> utcakTobbAdosavval => epitmenyadok
+       .GroupBy(x => x.UtcaNev)
+       .Where(g => g.Select(x => x.Adosav).Distinct().Count() > 1)
+       .Select(g => g.Key)
+       .ToList();
+
+
+        public string LakcímKeresés(int adoszam)
         {
             string lakcím = "";
-            foreach (var e in epitmenyadok) // conflict resolve-ban írtam át a kisbetűs listára
+            foreach (var e in epitmenyadok) 
             {
                 if (e.Adoszam == adoszam)
                 {
@@ -33,6 +42,7 @@ namespace Epitmenyadoproject
             }
             return lakcím;
         }
+
         public int ado(string adosav, int alapterület)
         {
             int fizetendo_ado= adosavok[adosav]*alapterület;
@@ -69,6 +79,7 @@ namespace Epitmenyadoproject
             }
         }
 
+
         public HashSet<string> fizetendo_adok
         {
             get
@@ -86,6 +97,7 @@ namespace Epitmenyadoproject
         {
             File.WriteAllLines(allomany, fizetendo_adok);
         }
+
 
         public Megoldás(string forrás)
         {
