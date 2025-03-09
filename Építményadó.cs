@@ -15,7 +15,7 @@ namespace Epitmenyadoproject
         public string UtcaNev { get;set; }
         public string Hazszam { get; set; }
         public string Adosav { get; set; }
-        public int Alapterulet { get; set; }
+        public int AlapT { get; set; }
 
         public static List<Építményadó> ReadFromJson(string forrás)
         {
