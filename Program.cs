@@ -20,7 +20,7 @@ namespace Epitmenyadoproject
             Console.Write(m.LakcÃ­mKeresÃ©s(adoszam));
 
             Console.WriteLine($"\n5. feladat. {m.adooszz_kiir}");
-            Console.WriteLine("6. feladat:");
+            Console.WriteLine("6. feladat: A több sávba sorolt utcák:");
             foreach (var utca in m.utcakTobbAdosavval)
             {
                 Console.WriteLine(utca);
