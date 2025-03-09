@@ -17,7 +17,14 @@ namespace Epitmenyadoproject
 
             Console.Write($"3. feladat. Egy tulajdonos adószáma:");
             int adoszam = int.Parse(Console.ReadLine());
-            Console.Write(m.LakcímKeresés(adoszam));
+            Console.WriteLine(m.LakcímKeresés(adoszam));
+
+
+            Console.WriteLine("6. feladat:");
+            foreach (var utca in m.utcakTobbAdosavval)
+            {
+                Console.WriteLine(utca);
+            }
 
 
             // A - 800, B - 600, C - 100
