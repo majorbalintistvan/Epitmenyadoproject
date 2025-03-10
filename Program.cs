@@ -10,8 +10,8 @@ namespace Epitmenyadoproject
     {
         static void Main()
         {
-            string forr√°s = "utca.json";
-            Megold·s m = new Megold·s(forr√°s);
+            string forras = "utca.json";
+            Megold·s m = new Megold·s(forras);
           
             Console.WriteLine($"2.feladat. A mint·ban {m.TelkekSz·ma} telek szerepel.");
 
