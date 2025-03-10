@@ -32,7 +32,7 @@ namespace Epitmenyadoproject
             {
                 if (e.Adoszam == adoszam)
                 {
-                    lakcím += $"{e.UtcaNev} utca {e.Hazszam}\n";
+                    lakcím += $"{e.UtcaNev} utca {e.Hazszam}";
                 }
             }
             if(lakcím == "")
