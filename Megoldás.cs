@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 
 namespace Epitmenyadoproject
@@ -70,8 +72,6 @@ namespace Epitmenyadoproject
                 return eredmeny;
             }
         }
-
-
         public int ado(string adosav, int alapterület)
         {
             int fizetendo_ado= adosavok[adosav]*alapterület;
@@ -107,27 +107,27 @@ namespace Epitmenyadoproject
                 return válasz;
             }
         }
-
-
-        public HashSet<string> fizetendo_adok
+        public class Adók
+        {
+            public string Adószám { get; set; } = string.Empty;
+            public int Fizetendő { get; set; }
+        }
+        public List<Adók> fizetendo_adok
         {
             get
             {
-                HashSet<string> adatok = new HashSet<string>();
+                List<Adók> adatok = new List<Adók>();
                 foreach(var e in epitmenyadok)
                 {
-                    adatok.Add($"{e.Adoszam} {ado(e.Adosav, e.AlapT)}") ;
+                    adatok.Add() ;
                 }
                 return adatok;
             }
         }
-
         public void fizetendo_txt(string allomany)
         {
             File.WriteAllLines(allomany, fizetendo_adok);
         }
-
-
         public Megoldás(string forrás)
         {
             epitmenyadok = Építményadó.ReadFromJson(forrás);
