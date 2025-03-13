@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Xml;
 
 
 namespace Epitmenyadoproject
@@ -107,26 +108,21 @@ namespace Epitmenyadoproject
                 return válasz;
             }
         }
-        public class Adók
+        public void fizetendo_json(string allomany)
         {
-            public string Adószám { get; set; } = string.Empty;
-            public int Fizetendő { get; set; }
-        }
-        public List<Adók> fizetendo_adok
-        {
-            get
+            var fizetendoLista = new List<object>();
+
+            foreach (var e in epitmenyadok)
             {
-                List<Adók> adatok = new List<Adók>();
-                foreach(var e in epitmenyadok)
+                fizetendoLista.Add(new
                 {
-                    adatok.Add() ;
-                }
-                return adatok;
+                    Adoszam = e.Adoszam,
+                    Fizetendo = ado(e.Adosav, e.AlapT)
+                });
             }
-        }
-        public void fizetendo_txt(string allomany)
-        {
-            File.WriteAllLines(allomany, fizetendo_adok);
+
+            string json = JsonSerializer.Serialize(fizetendoLista, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(allomany, json);
         }
         public Megoldás(string forrás)
         {

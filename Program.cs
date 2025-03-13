@@ -22,8 +22,8 @@ namespace Epitmenyadoproject
             {
                 Console.WriteLine(utca);
             }
-            Console.WriteLine("7. feladat: Fizetendõ adók tulajonként (txt)");
-            m.fizetendo_txt("fizetendo.txt");
+            Console.WriteLine("7. feladat: Fizetendõ adók tulajonként (json)");
+            m.fizetendo_json("fizetendo.json");
             Console.ReadKey();
         }
     }
