@@ -10,7 +10,7 @@ nem éri el a 10.000 Ft-ot, akkor az adott építmény után nem kell adót fizetni.
 
 --- 
 A testületi döntést az Adó Ügyosztály egy mintával készítette elõ, amely csupán néhány utca 
-adatait tartalmazza. Ezek az adatok az `utca.txt` fájlban vannak. A fájl elsõ sorában a három 
+adatait tartalmazza. Ezek az adatok az `utca.json` fájlban vannak. A fájl elsõ sorában a három 
 adósávhoz tartozó négyzetméterenként fizetendõ összeg található A, B, C sorrendben, egy-egy 
 szóközzel elválasztva: 
 ```
@@ -32,7 +32,7 @@ esõ telken álló építmény alapterülete 180 m^2^.
 ---
 A fájl legfeljebb 1000 telek adatait tartalmazza. A feladat megoldása során kihasználhatja, 
 hogy a fájlban az adatok utca, azon belül pedig házszám szerinti sorrendben következnek.
-Készítsen programot, amely az `utca.txt` állomány adatait felhasználva az alábbi 
+Készítsen programot, amely az `utca.json` állomány adatait felhasználva az alábbi 
 kérdésekre válaszol! A program forráskódját mentse epitmenyado néven! (A program 
 megírásakor a felhasználó által megadott adatok helyességét, érvényességét nem kell 
 ellenõriznie, és feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak megfelelnek.) 
@@ -43,7 +43,7 @@ esetben az ékezetmentes kiírás is elfogadott.
 
 ---
 ##  1. feladat  
-Olvassa be és tárolja el az `utca.txt` állományban talált adatokat, és annak 
+Olvassa be és tárolja el az `utca.json` állományban talált adatokat, és annak 
 felhasználásával oldja meg a következõ feladatokat! 
 ## 2. feladat
 Hány telek adatai találhatók az állományban? Az eredményt írassa ki a mintának 
@@ -68,7 +68,7 @@ azok az utcák, ahol a telkek sávokba sorolását emiatt felül kell vizsgálni! Felt
 hogy minden utcában van legalább két telek. 
 ## 7. feladat
 Határozza meg a fizetendõ adót tulajdonosonként! A tulajdonos adószámát és a fizetendõ 
-összeget írassa ki a mintának megfelelõen a fizetendo.txt állományba! A fájlban 
+összeget írassa ki a mintának megfelelõen a fizetendo.json állományba! A fájlban 
 minden tulajdonos adatai új sorban szerepeljenek, a tulajdonos adószámát egy szóközzel 
 elválasztva kövesse az általa fizetendõ adó teljes összege.
 
@@ -90,7 +90,7 @@ Kurta
 Rezeda 
 Szepesi 
 ```
-## Példa a fizetendo.txt fájl kialakításához: 
+## Példa a fizetendo.json fájl kialakításához: 
 (A fájl a megadott forrásállomány esetén 519 adatsort fog tartalmazni.)
 ```
 38522 18000 
